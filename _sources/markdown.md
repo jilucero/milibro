@@ -1,37 +1,32 @@
-# Markdown Files
+# Caracteristicas
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+-Búsquedas inteligentes: La web 3.0 busca crear un nuevo sistema de clasificación de páginas web estrechamente ligado a las necesidades y características de los usuarios. De esta forma, al conectarse a Internet, los usuarios pueden disfrutar de una plataforma mucho más personalizada.	
 
-## What is MyST?
+-La evolución de las redes sociales:Crecen las comunidades sociales en la red, tanto en número como en nivel de complejidad. Aumentan también las formas de conectarse a estas redes.	
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
+-Más rapidez: Las nuevas funcionalidades de la Web 3.0 requieren de un Internet mucho más rápido. En respuesta a esto, las principales operadoras de telecomunicaciones han implementado conexiones de banda ancha para garantizar una experiencia de uso más satisfactoria para los usuarios.
 
-For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
+-Conectividad a través de más dispositivos: La Web 3.0 mejora las posibilidades de los usuarios de conectarse no sólo a través de las computadoras de escritorio y laptops, sino también a través de celulares, tablets, relojes y más dispositivos.	
 
-## Sample Roles and Directives
+-Contenido libre: Los programas libres y las licencias 'Creative Commons' son mucho más comunes en la Web 3.0.	
 
-Roles and directives are two of the most powerful tools in Jupyter Book. They
-are kind of like functions, but written in a markup language. They both
-serve a similar purpose, but **roles are written in one line**, whereas
-**directives span many lines**. They both accept different kinds of inputs,
-and what they do with those inputs depends on the specific role or directive
-that is being called.
+-Computación en la nube: Con la creación de nuevos espacios de almacenamiento, no sólo de datos sino de programas, la web se convierte en un espacio ejecutable a modo de computador universal.
 
-Here is a "note" directive:
+## VENTAJAS
 
-```{note}
-Here is a note
-```
++ Son una solución rápida y barata, ya que la inversión destinada a su desarrollo es menor y se necesita de menos tiempo.
++ No hay que crear diferentes versiones para diversas familias de dispositivos: una aplicación web será accesible para todos los usuarios, utilicen iOS, Android, una tablet o un PC.
++ El entorno web sigue siendo mejor a la hora de captar usuarios, ya que estos suelen ser reticentes en un primer momento a ocupar la memoria de sus dispositivos descargando una herramienta que no saben si va a resultarles de utilidad. Sin embargo, si sólo tienen que seguir un enlace URL, estarán más dispuestos a probarla.
++ Utiliza lenguajes de sobra conocidos por los programadores, como HTML y CSS.
++ Aunque son más lentas, las aplicaciones web tienen menos tendencia a colgarse y a sufrir ‘bugs’ porque evitan los problemas técnicos que surgen de incompatibilidades o conflictos de software con otras aplicaciones, así como con los protocolos de seguridad de los dispositivos.
 
-It will be rendered in a special box when you build your book.
+## DESVENTAJAS
 
-Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
++ Necesitan alojarse en una web optimizada y responsive para que los usuarios puedan utilizar la aplicación a la perfección.
++ Al no tratarse de una app nativa, no se encuentran en los ‘market’ oficiales de los sistemas operativos predominantes en los teléfonos móviles, como Apple Store o Play Store. De esta manera, muchos usuarios que busquen una aplicación dentro en estas tiendas, no llegarán a dar con ella.
++ Las apps nativas deben descargarse por lo que, una vez se ha dado este paso, es más probable que se usen de nuevo, fomentando la fidelización. Sin embargo, el mundo web es más volátil y es posible que el usuario recurra a cualquier otra aplicación con la que se tope en internet la próxima vez que lo necesite.
++ De forma habitual, el usuario necesita de una mayor conectividad en las aplicaciones web que en las aplicaciones móviles para utilizar la herramienta.
++ El rendimiento está limitado por la respuesta del navegador desde el que se ejecuta la aplicación. La experiencia del usuario es peor, ya que se adapta menos al dispositivo utilizado que una app nativa. Las funcionalidades offline quedan totalmente descartadas en las aplicaciones web.
 
 
 ## Citations
