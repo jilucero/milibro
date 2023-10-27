@@ -18,9 +18,9 @@ Servidor: La parte más importante ya que es en aquella dónde se almacena de fo
 Existen numerosas tecnologías web, algo que si bien es una ventaja en el diseño y desarrollo de sitio web, puede llegar a complicar la elección o la toma de decisión de cuál utilizar y para qué. Por eso es imprescindible explicar en detalle el proyecto que se quiere desarrollar, las funciones que necesitará el desarrollo web, y en base a eso, dejarse a asesorar por los desarrolladores a la hora de determinar qué tecnologías web se usarán.
 
 
-check out [the documentation]([https://jupyterbook.org](https://www.mytaskpanel.com/tecnologias-back-end-desarrollo-web/)) for more information.
+consulte. [la documentación ]([https://jupyterbook.org](https://www.mytaskpanel.com/tecnologias-back-end-desarrollo-web/]) para obtener más información.
 
-Check out the content pages bundled with this sample book to see more.
+Consulte las páginas hacerca de las tecnologías web 
 
 ```{tableofcontents}
 ```
