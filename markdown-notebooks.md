@@ -12,26 +12,28 @@ kernelspec:
   name: python3
 ---
 
-# Notebooks with MyST Markdown
+# Principales tecnologías de backend que debe conocer
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
+Aquí vamos a discutir una de las mejores tecnologías de backend que lideran el mercado. Cada tecnología del lado del servidor tiene sus principales características y limitaciones. Es fundamental decidir cuál es la adecuada según los requisitos de su proyecto. Aquí hay una descripción general:
 
-## An example cell
+## Lenguaje de programación	
 
-With MyST Markdown, you can define code cells with a directive like so:
+JavaScript
 
-```{code-cell}
-print(2 + 2)
+Aplicaciones famosas
+
+```
+Netflix
+Candy Crush
+Facebook
 ```
 
-When your book is built, the contents of any `{code-cell}` blocks will be
-executed with your default Jupyter kernel, and their outputs will be displayed
-in-line with the rest of your content.
+Frameworks
 
-```{seealso}
-Jupyter Book uses [Jupytext](https://jupytext.readthedocs.io/en/latest/) to convert text-based files to notebooks, and can support [many other text-based notebook files](https://jupyterbook.org/file-types/jupytext.html).
+```
+Express.js
+React
+Vue
 ```
 
 ## Create a notebook with MyST Markdown
