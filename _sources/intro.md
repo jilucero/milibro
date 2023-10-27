@@ -18,7 +18,7 @@ Servidor: La parte más importante ya que es en aquella dónde se almacena de fo
 Existen numerosas tecnologías web, algo que si bien es una ventaja en el diseño y desarrollo de sitio web, puede llegar a complicar la elección o la toma de decisión de cuál utilizar y para qué. Por eso es imprescindible explicar en detalle el proyecto que se quiere desarrollar, las funciones que necesitará el desarrollo web, y en base a eso, dejarse a asesorar por los desarrolladores a la hora de determinar qué tecnologías web se usarán.
 
 
-consulte la documentación: (https://www.grupoinnova.org/ventajas-del-uso-de-tecnologia-web/#:~:text=La%20tecnolog%C3%ADa%20Web%20nos%20permite,no%20en%20concreto%20en%20uno.)https://www.grupoinnova.org/ventajas-del-uso-de-tecnologia-web/#:~:text=La%20tecnolog%C3%ADa%20Web%20nos%20permite,no%20en%20concreto%20en%20uno.) para obtener más información.
+consulte la documentación: (https://www.grupoinnova.org/ventajas-del-uso-de-tecnologia-web/#:~:text=La%20tecnolog%C3%ADa%20Web%20nos%20permite,no%20en%20concreto%20en%20uno.) para obtener más información.
 
 Consulte las páginas hacerca de las tecnologías web 
 
